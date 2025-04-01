@@ -1,4 +1,4 @@
-# Compiler for TinyL Language Project
+# Compiler for TinyL Language 
 The TinyL Compiler project involves creating a recursive descent LL(1) parser and code generator for the TinyL programming language. The goal is to design a compiler that translates TinyL programs into RISC machine instructions. TinyL is a simple expression language that supports assignments and basic I/O operations.
 
 The compiler is responsible for parsing TinyL source code and generating corresponding RISC machine instructions for each operation, including arithmetic, bitwise operations, and I/O operations. 
